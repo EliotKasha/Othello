@@ -1,2 +1,2 @@
 # Othello
-Othello AI
+Othello AI, work in progress :>
