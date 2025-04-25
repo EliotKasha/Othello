@@ -1,6 +1,3 @@
-# To Do:
-# Fallback to force evaluate terminal states
-
 try:
     import pygame
 
